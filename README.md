@@ -1,5 +1,7 @@
 # Spinning 3D ASCII Torus (donut.c) in Multiple Languages
 
+![Spinning ASCII Donut](output.gif)
+
 This repository contains clean, modern, and heavily-commented implementations of Andy Sloane's famous 2006 **donut.c** (the spinning 3D ASCII torus) across multiple programming languages.
 
 Instead of the original obfuscated shape, these implementations prioritize clean code structure, readability, and performance while retaining the exact core mathematical algorithms (torus equations, 3D rotations, perspective projection, Z-buffering depth resolution, and surface normal luminance shading).
